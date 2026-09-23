@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0005-longest-palindromic-substring) |
 | [0383-ransom-note](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/1189-maximum-number-of-balloons) |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/1189-maximum-number-of-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
