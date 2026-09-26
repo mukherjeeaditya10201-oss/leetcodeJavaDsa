@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0005-longest-palindromic-substring) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
