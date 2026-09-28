@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0015-3sum) |
+| [0260-single-number-iii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0260-single-number-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0015-3sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
