@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0409-longest-palindrome) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0073-set-matrix-zeroes) |
 | [0260-single-number-iii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0260-single-number-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -68,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
