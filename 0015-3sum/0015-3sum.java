@@ -58,8 +58,10 @@ class Solution {
                     right--;
                    
                 }
-                 else if (sum<0)left++;
-                    else right--;
+                 else if (sum<0)
+                  left++;
+                 else 
+                  right--;
 
             }
         }
