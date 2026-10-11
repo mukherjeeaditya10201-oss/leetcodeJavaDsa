@@ -35,7 +35,7 @@ class Solution {
     public void merge(int[] nums,int low,int mid,int high){
         int left=low;
         int right=mid+1;
-        int k=0;int[] temp = new int[nums.length];
+        int k=low;int[] temp = new int[nums.length];
        // int[] temp = new int[high-low+1];
 
        // ArrayList<Integer> temp=new ArrayList<>();
@@ -60,7 +60,7 @@ class Solution {
             // right++;
         }
         for(int i=low;i<=high;i++){
-            nums[i]=temp[i-low];
+            nums[i]=temp[i];
         }
         // return count;
     }
