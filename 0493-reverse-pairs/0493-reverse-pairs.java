@@ -1,6 +1,6 @@
 class Solution {
     public int reversePairs(int[] nums) {
-        int[] temp = new int[nums.length];
+        //int[] temp = new int[nums.length];
         return mergeSort(nums,0,nums.length-1);
     }
     int mergeSort(int[] nums,int low,int high){
