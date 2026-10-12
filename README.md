@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0005-longest-palindromic-substring) |
+| [0152-maximum-product-subarray](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0073-set-matrix-zeroes) |
+| [0152-maximum-product-subarray](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0152-maximum-product-subarray) |
 | [0260-single-number-iii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0260-single-number-iii) |
 | [0493-reverse-pairs](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0493-reverse-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/2149-rearrange-array-elements-by-sign) |
