@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0409-longest-palindrome) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0152-maximum-product-subarray) |
 | [0260-single-number-iii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0260-single-number-iii) |
 | [0493-reverse-pairs](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0493-reverse-pairs) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
