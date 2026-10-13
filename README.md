@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0260-single-number-iii) |
 | [0493-reverse-pairs](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
