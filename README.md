@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0409-longest-palindrome) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/1189-maximum-number-of-balloons) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0260-single-number-iii) |
 | [0493-reverse-pairs](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0493-reverse-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0229-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/mukherjeeaditya10201-oss/leetcodeJavaDsa/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
